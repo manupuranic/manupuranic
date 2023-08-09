@@ -21,6 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manupuranic&show_icons=true&locale=en&layout=compact" alt="manupuranic" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manupuranic&show_icons=true&locale=en" alt="manupuranic" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manupuranic&" alt="manupuranic" /></p>
